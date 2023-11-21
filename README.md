@@ -1,5 +1,4 @@
 
- <img src="https://t3.ftcdn.net/jpg/03/18/60/62/240_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" alt="img" width="600" height="300">
 <h1 align="center">Hi 👋, I'm Prathmesh Sargar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="developer" width="400" align="center">
